@@ -1,0 +1,14 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\bin\Debug\FontViewer.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\bin\Debug\FontViewer.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\bin\Debug\FontViewer.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\App.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer_MarkupCompile.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer_MarkupCompile.lref
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.g.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewer.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewerMain.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\FontViewer\FontViewer\obj\Debug\FontViewerMain.baml
